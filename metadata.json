@@ -1,0 +1,6 @@
+{
+  "name": "Scam Threat Analyzer",
+  "description": "Analyzes job offers, rental listings, and emails for scams, equipment check deposit traps, pay-to-work schemes, and deposit fraud with detailed risk scores and raw JSON output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
